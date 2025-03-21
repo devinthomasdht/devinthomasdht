@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/DevinThomas52360924a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/Devin-Thomas-52360924a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Devin
 [instagram]: https://www.instagram.com/Devin
-[linkedin]: https://linkedin.com/in/DevinThomas
+[linkedin]: https://linkedin.com/in/Devin-Thomas-52360924a
