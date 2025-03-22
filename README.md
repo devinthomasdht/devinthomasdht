@@ -12,10 +12,10 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Devin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Devin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Devin
-[instagram]: https://www.instagram.com/Devin
+[<img align="left" alt="Devin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+]
+
+
+
 [linkedin]: https://linkedin.com/in/Devin-Thomas-52360924a
