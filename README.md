@@ -10,8 +10,6 @@ Okta, SailPoint IdentityIQ, Microsoft Entra ID, PowerShell, Python, MS Graph API
 
 ## Featured projects
 
-## Featured projects
-
 **[SailPoint IdentityIQ, Authoritative Source Configuration](https://github.com/devinthomasdht/sailpoint-identityiq-hr-source-aggregation)**
 Configured a CSV based HR source as an authoritative identity source in SailPoint IdentityIQ, built a 13 attribute schema, and ran a full account aggregation. Includes real troubleshooting, a hidden file extension, a delimiter field, and a missing identity attribute, each traced back to its actual cause.
 
